@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hw6wJq69LIWRkxhi3vfAS88x1yU12dUaUXULz+pjh72H23FLnDAIOqflFuse5WJjg2XUj1svzdmUnTG7BVZcQ==",
+  "dgSpecHash": "Qd9OsVetSg1TKXxcrhsV0APZfvBa9i968v+ZK/gaEUuOfPAecJFT8OgHWrE7C4iA1A2EvK2Y/zYfbO/RgejNrg==",
   "success": true,
-  "projectFilePath": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/front/back/RandomNumber/RandomNumber.csproj",
+  "projectFilePath": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/back/RandomNumber/RandomNumber.csproj",
   "expectedPackageFiles": [
     "/home/lusca/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/lusca/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/front/back/RandomNumber/RandomNumber.csproj",
+      "projectUniqueName": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/back/RandomNumber/RandomNumber.csproj",
       "projectName": "RandomNumber",
-      "projectPath": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/front/back/RandomNumber/RandomNumber.csproj",
+      "projectPath": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/back/RandomNumber/RandomNumber.csproj",
       "packagesPath": "/home/lusca/.nuget/packages/",
-      "outputPath": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/front/back/RandomNumber/obj/",
+      "outputPath": "/home/lusca/nerdola/extensao/codelab/apresentacaoNginx/back/RandomNumber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lusca/.nuget/NuGet/NuGet.Config"
